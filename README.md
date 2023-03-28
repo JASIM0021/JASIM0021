@@ -15,7 +15,7 @@
 
 Welcome to my Github page! I am SK Jasimuddin and I am currently a Computer Science Undergrad.  
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/JASIM0021/JASIM0021/blob/main/cover_image.jpg" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -75,10 +75,10 @@ Welcome to my Github page! I am SK Jasimuddin and I am currently a Computer Scie
 
 
 <a href="https://avatars.githubusercontent.com/u/94641150?s=400&u=ab5ea3ae4711bfbeceb6a6a801e24566d43993d2&v=4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=therohit777&show_icons=true&hide_border=false&title_color=ffffff&amp&icon_color=bb2acf&amp&text_color=daf7dc&amp&bg_color=191919"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasim0021=true&hide_border=false&title_color=ffffff&amp&icon_color=bb2acf&amp&text_color=daf7dc&amp&bg_color=191919"/>
 </a>
 <a href="https://github.com/ashish-reddy-20-08">
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therohit777&theme=dark&hide_langs_below=0" />
+  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasim0021&theme=dark&hide_langs_below=0" />
 </a>
 
 
